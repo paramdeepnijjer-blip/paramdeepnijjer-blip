@@ -1,50 +1,63 @@
-## Hi, I'm Paramdeep 👋
+<h2 align="left">Hi, I'm Param 👋</h2>
 
-**M.S. Data Science candidate** • ML / Analytics • Python • SQL • Tableau/Power BI  
-📍 Canada | 🌐 Portfolio: https://github.com/paramdeepnijjer-blip | 💼 LinkedIn: https://www.linkedin.com/in/paramdeepnijjer/
-
----
-
-### 📊 GitHub Stats
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <b>M.S. Data Science candidate</b> • ML / Analytics • Python • SQL • Tableau/Power BI <br/>
+  📍 Canada • 💼 LinkedIn: <a href="https://www.linkedin.com/in/paramdeepnijjer/">linkedin.com/in/paramdeepnijjer</a> • 🧠 GitHub: <a href="https://github.com/paramdeepnijjer-blip">paramdeepnijjer-blip</a>
+</p>
+
+<hr/>
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=paramdeepnijjer-blip&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paramdeepnijjer-blip&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="left">
-  <img height="165" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=paramdeepnijjer-blip&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<hr/>
 
-### 🔥 What I work on
-- **Machine Learning**: predictive modeling, feature engineering, model evaluation  
-- **Analytics**: dashboards, KPI reporting, insights for decisions  
-- **Forecasting**: time series + experimentation mindset  
-- **Cloud / Data**: Azure basics, pipelines, reproducible workflows
+<h3 align="left">🔥 What I work on</h3>
 
----
+<ul>
+  <li><b>Machine Learning</b>: predictive modeling, feature engineering, model evaluation</li>
+  <li><b>Analytics</b>: dashboards, KPI reporting, decision support</li>
+  <li><b>Forecasting</b>: time-series + experimentation mindset</li>
+  <li><b>Cloud/Data</b>: Azure basics, pipelines, reproducible workflows</li>
+</ul>
 
-### 🧰 Tech Stack
-**Languages:** Python, SQL, R  
-**Tools:** Pandas, NumPy, scikit-learn, Jupyter, Tableau, Power BI, Git/GitHub
+<hr/>
+
+<h3 align="left">🧰 Tech Stack</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,github,git,azure,sklearn,tableau" />
+  <b>Languages:</b> Python, SQL, R<br/>
+  <b>Tools:</b> Pandas, NumPy, scikit-learn, Jupyter, Tableau, Power BI, Git/GitHub
 </p>
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,github,git,azure" />
+</p>
 
-### ⭐ Featured Projects
-> Pin these repos on your profile so this section matches your best work.
+<hr/>
 
-- **ShopLens AI** — AI product background generator  
-- **EV Range Prediction** — end-to-end ML pipeline + interpretability  
-- **Appointments Forecasting** — time-series forecasting + evaluation  
-- **Airbnb Seattle Pricing** — Tableau insights + story
+<h3 align="left">⭐ Featured Projects</h3>
 
----
+<ul>
+  <li><b>ShopLens AI</b> — AI product background generator</li>
+  <li><b>EV Range Prediction</b> — end-to-end ML pipeline + interpretability</li>
+  <li><b>Appointments Forecasting</b> — time-series forecasting + evaluation</li>
+  <li><b>Airbnb Seattle Pricing</b> — Tableau insights + story</li>
+</ul>
 
-### 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/paramdeepnijjer/ 
-- Email: paramdeep.nijjer@gmail.com
+<hr/>
+
+<h3 align="left">📫 Connect</h3>
+
+<ul>
+  <li>LinkedIn: https://www.linkedin.com/in/paramdeepnijjer/</li>
+  <li>Email: (use whichever you want recruiters to contact)</li>
+</ul>
