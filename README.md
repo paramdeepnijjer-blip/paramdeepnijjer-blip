@@ -1,63 +1,91 @@
-<h2 align="left">Hi, I'm Param 👋</h2>
+<!-- ===== HERO ===== -->
+<h1 align="center">Hi there, I'm Param 👋</h1>
 
-<p align="left">
-  <b>M.S. Data Science candidate</b> • ML / Analytics • Python • SQL • Tableau/Power BI <br/>
-  📍 Canada • 💼 LinkedIn: <a href="https://www.linkedin.com/in/paramdeepnijjer/">linkedin.com/in/paramdeepnijjer</a> • 🧠 GitHub: <a href="https://github.com/paramdeepnijjer-blip">paramdeepnijjer-blip</a>
+<p align="center">
+  <b>M.S. Data Science candidate</b> • ML / Analytics • Python • SQL • Tableau / Power BI • Azure
 </p>
 
-<hr/>
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=paramdeepnijjer-blip&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paramdeepnijjer-blip&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  📍 Canada &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/paramdeepnijjer/">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://github.com/paramdeeppnijjer-blip">GitHub</a> &nbsp;•&nbsp;
+  <a href="mailto:paramdeep.nijjer@gmail.com">Email</a>
 </p>
 
-<p align="left">
-  <img height="165" src="https://streak-stats.demolab.com?user=paramdeepnijjer-blip&theme=tokyonight&hide_border=true" />
+<br/>
+
+<!-- ===== 2-COLUMN LAYOUT ===== -->
+<table>
+<tr>
+<td width="38%" valign="top">
+
+## 🚀 About me
+- 🎓 M.S. Data Science candidate (Boston University)
+- 📊 I build end-to-end analytics + ML projects (data → model → insights → dashboard)
+- 🧠 Interested in forecasting, responsible AI, and decision analytics
+
+## 🧩 Expertise
+- **Machine Learning**: feature engineering, evaluation, interpretability  
+- **Analytics**: KPIs, reporting automation, dashboarding  
+- **Forecasting**: time series + validation  
+- **Cloud/Data**: reproducible workflows, Azure fundamentals  
+
+## 🌐 Socials
+<p>
+  <a href="https://www.linkedin.com/in/paramdeepnijjer/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:paramdeep.nijjer@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<hr/>
-
-<h3 align="left">🔥 What I work on</h3>
-
-<ul>
-  <li><b>Machine Learning</b>: predictive modeling, feature engineering, model evaluation</li>
-  <li><b>Analytics</b>: dashboards, KPI reporting, decision support</li>
-  <li><b>Forecasting</b>: time-series + experimentation mindset</li>
-  <li><b>Cloud/Data</b>: Azure basics, pipelines, reproducible workflows</li>
-</ul>
-
-<hr/>
-
-<h3 align="left">🧰 Tech Stack</h3>
-
-<p align="left">
-  <b>Languages:</b> Python, SQL, R<br/>
-  <b>Tools:</b> Pandas, NumPy, scikit-learn, Jupyter, Tableau, Power BI, Git/GitHub
+## 🏅 Highlights
+<p>
+  <img src="https://img.shields.io/badge/ML%20Projects-6+-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dashboards-Tableau%20%7C%20PowerBI-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20SQL%20%7C%20R-111827?style=for-the-badge" />
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,github,git,azure" />
+</td>
+<td width="62%" valign="top">
+
+## 🧰 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,git,github,azure,linux&theme=dark" />
 </p>
 
-<hr/>
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/pandas-111827?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-111827?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau&logoColor=E97627" />
+  <img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+</p>
 
-<h3 align="left">⭐ Featured Projects</h3>
+## 📈 GitHub Stats
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=paramdeeppnijjer-blip&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paramdeeppnijjer-blip&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<ul>
-  <li><b>ShopLens AI</b> — AI product background generator</li>
-  <li><b>EV Range Prediction</b> — end-to-end ML pipeline + interpretability</li>
-  <li><b>Appointments Forecasting</b> — time-series forecasting + evaluation</li>
-  <li><b>Airbnb Seattle Pricing</b> — Tableau insights + story</li>
-</ul>
+<p>
+  <img height="160" src="https://streak-stats.demolab.com?user=paramdeeppnijjer-blip&theme=tokyonight&hide_border=true" />
+</p>
 
-<hr/>
+## ⭐ Featured Projects (pin these)
+- **ShopLens AI** — AI product background generator  
+- **EV Range Prediction** — end-to-end ML pipeline + interpretability  
+- **Appointments Forecasting** — time-series forecasting + evaluation  
+- **Airbnb Seattle Pricing** — Tableau insights + story  
 
-<h3 align="left">📫 Connect</h3>
+</td>
+</tr>
+</table>
 
-<ul>
-  <li>LinkedIn: https://www.linkedin.com/in/paramdeepnijjer/</li>
-  <li>Email: (use whichever you want recruiters to contact)</li>
-</ul>
+<br/>
+
+<!-- ===== FOOTER BANNER (optional) ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0b1220&height=110&section=footer"/>
+</p>
