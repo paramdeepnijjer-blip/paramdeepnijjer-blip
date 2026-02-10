@@ -290,7 +290,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 </p>
 
 <p>
-  <strong>💼 Open to: Full-time Data Science roles | ML Engineering positions | Research collaborations</strong>
+  <strong>💼 Open to: Full-time Data Science roles | ML/Data Engineering positions | Junior Product Management
 </p>
 
 </div>
