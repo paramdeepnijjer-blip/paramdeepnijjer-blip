@@ -13,30 +13,33 @@
 
 <br/>
 
-<!-- ===================== TWO-COLUMN LAYOUT ===================== -->
 <table>
   <tr>
-    <!-- LEFT COLUMN -->
     <td valign="top" width="52%">
 
-## 🚀 About me
-I’m Param — an M.S. Data Science candidate with a strong foundation in Applied Statistics and hands-on experience building end-to-end analytics and ML projects. I like turning messy, real-world data into clean pipelines, models you can trust, and dashboards that drive decisions.
+<h2>🚀 About me</h2>
 
-My focus is practical: I care about model performance **and** the story behind it — feature engineering, evaluation, interpretability, and communicating insights clearly to non-technical stakeholders. Lately, I’ve been working across forecasting, KPI reporting automation, and ML-driven decision support.
+<p>
+I’m Param — an M.S. Data Science candidate with a strong foundation in Applied Statistics and hands-on experience building end-to-end analytics and ML projects. I turn messy, real-world data into clean pipelines, trustworthy models, and dashboards that drive decisions.
+</p>
 
-I’m actively building a portfolio that shows the full workflow: **data → modeling → evaluation → deployment-ready outputs**.
+<p>
+I care about performance <b>and</b> the story: feature engineering, evaluation, interpretability, and explaining results clearly to non-technical stakeholders. My portfolio focuses on: <b>data → modeling → evaluation → decision outputs</b>.
+</p>
 
----
+<hr/>
 
-## 🧠 Expertise
-- **Machine Learning:** feature engineering, evaluation, interpretability  
-- **Analytics:** KPIs, reporting automation, dashboarding  
-- **Forecasting:** time series + validation mindset  
-- **Cloud / Data:** Azure basics, pipelines, reproducible workflows  
+<h2>🧠 Expertise</h2>
+<ul>
+  <li><b>Machine Learning:</b> feature engineering, evaluation, interpretability</li>
+  <li><b>Analytics:</b> KPIs, reporting automation, dashboarding</li>
+  <li><b>Forecasting:</b> time series + validation mindset</li>
+  <li><b>Cloud / Data:</b> Azure basics, pipelines, reproducible workflows</li>
+</ul>
 
----
+<hr/>
 
-## 🌐 Socials
+<h2>🌐 Socials</h2>
 <p>
   <a href="https://www.linkedin.com/in/paramdeepnijjer/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -46,12 +49,12 @@ I’m actively building a portfolio that shows the full workflow: **data → mod
   </a>
 </p>
 
----
+<hr/>
 
-## 🏅 Highlights (clickable)
+<h2>🏅 Highlights (clickable)</h2>
 <p>
   <a href="https://github.com/paramdeeppnijjer-blip?tab=repositories">
-    <img src="https://img.shields.io/badge/ML%20Projects-6+-111827?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/ML%20Projects-6%2B-111827?style=for-the-badge"/>
   </a>
   <a href="https://github.com/paramdeeppnijjer-blip?tab=repositories">
     <img src="https://img.shields.io/badge/Dashboards-Tableau%20%7C%20PowerBI-111827?style=for-the-badge"/>
@@ -63,10 +66,9 @@ I’m actively building a portfolio that shows the full workflow: **data → mod
 
     </td>
 
-    <!-- RIGHT COLUMN -->
     <td valign="top" width="48%">
 
-## 🧰 Tech Stack
+<h2>🧰 Tech Stack</h2>
 <p>
   <img src="https://skillicons.dev/icons?i=python,r,postgres,git,github,azure,linux&theme=dark" />
 </p>
@@ -79,9 +81,11 @@ I’m actively building a portfolio that shows the full workflow: **data → mod
   <img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
 </p>
 
----
+<hr/>
 
-## 📈 GitHub Stats
+<h2>📈 GitHub Stats</h2>
+
+<!-- IMPORTANT: username must match EXACTLY -->
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=paramdeeppnijjer-blip&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paramdeeppnijjer-blip&layout=compact&theme=tokyonight&hide_border=true" />
@@ -91,17 +95,18 @@ I’m actively building a portfolio that shows the full workflow: **data → mod
   <img height="165" src="https://streak-stats.demolab.com?user=paramdeeppnijjer-blip&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<hr/>
 
-## ⭐ Featured Projects (pin these)
-- **ShopLens AI** — AI product background generator  
-- **EV Range Prediction** — end-to-end ML pipeline + interpretability  
-- **Appointments Forecasting** — time-series forecasting + evaluation  
-- **Airbnb Seattle Pricing** — Tableau insights + story  
+<h2>⭐ Featured Projects</h2>
+<ul>
+  <li><b>ShopLens AI</b> — AI product background generator</li>
+  <li><b>EV Range Prediction</b> — end-to-end ML pipeline + interpretability</li>
+  <li><b>Appointments Forecasting</b> — time-series forecasting + evaluation</li>
+  <li><b>Airbnb Seattle Pricing</b> — Tableau insights + story</li>
+</ul>
 
-> Tip: Go to your GitHub profile → **Customize your pins** → pin these 4 repos.
+<p><i>Pin these repos on your profile (steps below).</i></p>
 
     </td>
   </tr>
 </table>
-<!-- ===================== END LAYOUT ===================== -->
