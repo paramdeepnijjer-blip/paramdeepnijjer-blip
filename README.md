@@ -35,9 +35,11 @@
 
 ## 🚀 About Me
 
-I'm Param — an M.S. Data Science candidate with a strong foundation in Applied Statistics and hands-on experience building end-to-end analytics and ML projects. I turn messy, real-world data into clean pipelines, trustworthy models, and dashboards that drive decisions.
+I’m Param, an M.S. Data Science candidate with a strong foundation in Applied Statistics and Computer Science (databases + visualization). I build end-to-end analytics and machine learning projects—from messy raw data to clean pipelines, validated models, and decision-ready dashboards that stakeholders can actually use.
 
-I care about **performance and the story**: feature engineering, evaluation, interpretability, and explaining results clearly to non-technical stakeholders. My portfolio focuses on: **data + modeling → evaluation → decision outputs**.
+What I’m best at is sitting in the middle of technical + business: asking the right questions, turning goals into measurable metrics, and then delivering results in a way that’s clear, honest, and actionable. I care a lot about doing ML the “right way”: feature engineering, model evaluation, interpretability, and communicating trade-offs (not just chasing accuracy). My usual workflow looks like: data → modeling → evaluation → insights → decision outputs.**.
+
+Outside of academics and work, the gym has been a major part of my life—it taught me consistency and resilience, and it’s a big reason I can handle pressure and stay disciplined over long projects. I also love staying active through cricket and soccer. I’ve had opportunities to represent Alberta in cricket, and I help coach the U23S with the Alberta School Cricket Association—which is also where I learned a lot about leadership, teamwork, and showing up for people consistently 
 
 ```python
 class DataScientist:
