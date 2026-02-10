@@ -40,15 +40,19 @@
   </a>
 </p>
 
-## 🏅 Highlights
+## 🏅 Highlights 
 <p>
-  <img src="https://img.shields.io/badge/ML%20Projects-6+-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dashboards-Tableau%20%7C%20PowerBI-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20SQL%20%7C%20R-111827?style=for-the-badge" />
+  <a href="https://github.com/paramdeeppnijjer-blip?tab=repositories">
+    <img src="https://img.shields.io/badge/ML%20Projects-6+-111827?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/paramdeeppnijjer-blip?tab=repositories">
+    <img src="https://img.shields.io/badge/Dashboards-Tableau%20%7C%20PowerBI-111827?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/paramdeeppnijjer-blip?tab=repositories">
+    <img src="https://img.shields.io/badge/Stack-Python%20%7C%20SQL%20%7C%20R-111827?style=for-the-badge" />
+  </a>
 </p>
 
-</td>
-<td width="62%" valign="top">
 
 ## 🧰 Tech Stack
 <p>
@@ -65,13 +69,14 @@
 
 ## 📈 GitHub Stats
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=paramdeeppnijjer-blip&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paramdeeppnijjer-blip&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=paramdeeppnijjer-blip&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paramdeeppnijjer-blip&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p>
-  <img height="160" src="https://streak-stats.demolab.com?user=paramdeeppnijjer-blip&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=paramdeeppnijjer-blip&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ## ⭐ Featured Projects (pin these)
 - **ShopLens AI** — AI product background generator  
