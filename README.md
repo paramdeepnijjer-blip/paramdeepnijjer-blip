@@ -267,7 +267,7 @@ mindmap
 - ☁️ Passionate about deploying ML models to production
 - 🔍 Always exploring new techniques in feature engineering
 - 💬 Ask me about time series forecasting, ML pipelines, or cloud deployment
-- ⚡ Fun fact: I spend more time cleaning data than modeling (and that's okay!)
+- ⚡ Fun fact: I spend more time cleaning data than modelling (and that's okay!)
 
 ---
 
@@ -278,10 +278,10 @@ mindmap
 I'm always open to interesting conversations and collaboration opportunities!
 
 <p>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/paramdeepnijjer/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:paramdeep.nijjer@gmail.com">
     <img src="https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/paramdeepnijjer-blip">
