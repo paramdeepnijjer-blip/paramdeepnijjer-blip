@@ -1,4 +1,3 @@
-<!-- ===== HERO ===== -->
 <h1 align="center">Hi there, I'm Param 👋</h1>
 
 <p align="center">
@@ -14,45 +13,58 @@
 
 <br/>
 
-<!-- ===== 2-COLUMN LAYOUT ===== -->
+<!-- ===================== TWO-COLUMN LAYOUT ===================== -->
 <table>
-<tr>
-<td width="38%" valign="top">
+  <tr>
+    <!-- LEFT COLUMN -->
+    <td valign="top" width="52%">
 
 ## 🚀 About me
-- 🎓 M.S. Data Science candidate (Boston University)
-- 📊 I build end-to-end analytics + ML projects (data → model → insights → dashboard)
-- 🧠 Interested in forecasting, responsible AI, and decision analytics
+I’m Param — an M.S. Data Science candidate with a strong foundation in Applied Statistics and hands-on experience building end-to-end analytics and ML projects. I like turning messy, real-world data into clean pipelines, models you can trust, and dashboards that drive decisions.
 
-## 🧩 Expertise
-- **Machine Learning**: feature engineering, evaluation, interpretability  
-- **Analytics**: KPIs, reporting automation, dashboarding  
-- **Forecasting**: time series + validation  
-- **Cloud/Data**: reproducible workflows, Azure fundamentals  
+My focus is practical: I care about model performance **and** the story behind it — feature engineering, evaluation, interpretability, and communicating insights clearly to non-technical stakeholders. Lately, I’ve been working across forecasting, KPI reporting automation, and ML-driven decision support.
+
+I’m actively building a portfolio that shows the full workflow: **data → modeling → evaluation → deployment-ready outputs**.
+
+---
+
+## 🧠 Expertise
+- **Machine Learning:** feature engineering, evaluation, interpretability  
+- **Analytics:** KPIs, reporting automation, dashboarding  
+- **Forecasting:** time series + validation mindset  
+- **Cloud / Data:** Azure basics, pipelines, reproducible workflows  
+
+---
 
 ## 🌐 Socials
 <p>
   <a href="https://www.linkedin.com/in/paramdeepnijjer/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:paramdeep.nijjer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-## 🏅 Highlights 
+---
+
+## 🏅 Highlights (clickable)
 <p>
   <a href="https://github.com/paramdeeppnijjer-blip?tab=repositories">
-    <img src="https://img.shields.io/badge/ML%20Projects-6+-111827?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/ML%20Projects-6+-111827?style=for-the-badge"/>
   </a>
   <a href="https://github.com/paramdeeppnijjer-blip?tab=repositories">
-    <img src="https://img.shields.io/badge/Dashboards-Tableau%20%7C%20PowerBI-111827?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Dashboards-Tableau%20%7C%20PowerBI-111827?style=for-the-badge"/>
   </a>
   <a href="https://github.com/paramdeeppnijjer-blip?tab=repositories">
-    <img src="https://img.shields.io/badge/Stack-Python%20%7C%20SQL%20%7C%20R-111827?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Stack-Python%20%7C%20SQL%20%7C%20R-111827?style=for-the-badge"/>
   </a>
 </p>
 
+    </td>
+
+    <!-- RIGHT COLUMN -->
+    <td valign="top" width="48%">
 
 ## 🧰 Tech Stack
 <p>
@@ -60,12 +72,14 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
-  <img src="https://img.shields.io/badge/pandas-111827?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-111827?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau&logoColor=E97627" />
-  <img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+  <img src="https://img.shields.io/badge/pandas-111827?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/numpy-111827?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
 </p>
+
+---
 
 ## 📈 GitHub Stats
 <p>
@@ -77,6 +91,7 @@
   <img height="165" src="https://streak-stats.demolab.com?user=paramdeeppnijjer-blip&theme=tokyonight&hide_border=true" />
 </p>
 
+---
 
 ## ⭐ Featured Projects (pin these)
 - **ShopLens AI** — AI product background generator  
@@ -84,13 +99,9 @@
 - **Appointments Forecasting** — time-series forecasting + evaluation  
 - **Airbnb Seattle Pricing** — Tableau insights + story  
 
-</td>
-</tr>
+> Tip: Go to your GitHub profile → **Customize your pins** → pin these 4 repos.
+
+    </td>
+  </tr>
 </table>
-
-<br/>
-
-<!-- ===== FOOTER BANNER (optional) ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0b1220&height=110&section=footer"/>
-</p>
+<!-- ===================== END LAYOUT ===================== -->
